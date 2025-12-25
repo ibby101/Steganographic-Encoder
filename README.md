@@ -1,1 +1,1 @@
-# steganography_assignment_resit
+# Steganographic Encoder
